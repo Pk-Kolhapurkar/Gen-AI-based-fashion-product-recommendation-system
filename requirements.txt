@@ -9,3 +9,4 @@ sentence-transformers
 transformers
 torch
 tqdm
+matplotlib
