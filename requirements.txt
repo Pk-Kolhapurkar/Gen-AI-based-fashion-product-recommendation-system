@@ -1,12 +1,13 @@
 streamlit
-mysql-connector-python
-Pillow
-numpy
-scikit-learn
-opencv-python-headless
-tensorflow
+torch
+pickle
+matplotlib
+langchain-core  # Might need adjustment based on availability
+datasets
 sentence-transformers
 transformers
-torch
-tqdm
-matplotlib
+
+# Additional libraries based on your code (if applicable)
+mysql-connector-python  # If using MySQL database
+Pillow  # If using PIL for image processing
+scikit-learn  # If using scikit-learn (used for sklearn in your code)
