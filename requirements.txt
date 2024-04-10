@@ -1,6 +1,5 @@
 streamlit
 torch
-pickle
 matplotlib
 langchain-core  # Might need adjustment based on availability
 datasets
