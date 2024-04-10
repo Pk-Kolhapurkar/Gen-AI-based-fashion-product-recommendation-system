@@ -11,3 +11,4 @@ transformers
 mysql-connector-python  # If using MySQL database
 Pillow  # If using PIL for image processing
 scikit-learn  # If using scikit-learn (used for sklearn in your code)
+langchain_community
